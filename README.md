@@ -1,30 +1,54 @@
+# Hi there 👋 I'm Rajeev Raaz
 
+### 🚀 Aspiring Generative AI Engineer | 🤖 Senior Robotics Instructor | 🧠 Building Intelligent Systems
 
-# Hi there 👋, I'm Rajeev Raaz
+Passionate about transforming ideas into intelligent AI applications and currently on a mission to break into the world of **Generative AI Engineering**.
 
-🚀 **Aspiring Generative AI Engineer** | 🤖 Senior Robotics Instructor | 🧠 AI Enthusiast
+```python
+class RajeevRaaz:
+    current_role = "Senior Robotics Instructor"
+    transitioning_to = "Generative AI Engineer"
+    currently_learning = [
+        "LLMs",
+        "RAG",
+        "AI Agents",
+        "LangChain",
+        "Prompt Engineering",
+        "AI Automation"
+    ]
+    looking_for = "GenAI Engineer Opportunities (Fresher)"
+    motto = "From building robots to building intelligent AI systems."
+```
 
-Welcome to my GitHub profile!
+## 🔥 About Me
 
-* 🔭 Currently working as a **Senior Robotics Instructor**, mentoring students in robotics, programming, and emerging technologies.
-* 🌱 Actively learning and building projects in **Generative AI, Large Language Models (LLMs), AI Agents, RAG, and AI Automation**.
-* 💼 Actively preparing for and seeking opportunities as a **Generative AI Engineer (Fresher)**.
-* 🤝 Open to collaborating on **GenAI, Machine Learning, Robotics, and Open Source projects**.
-* 💬 Ask me about **Python, Robotics, Prompt Engineering, AI Agents, and Automation**.
-* 📚 Exploring technologies such as **LangChain, OpenAI API, Vector Databases, Agentic AI, and MLOps**.
-* ⚡ Fun fact: My journey started with building robots, and now I'm focused on building intelligent AI systems.
+* 🤖 Currently working as a **Senior Robotics Instructor**
+* 🌱 Actively preparing for and pursuing a career in **Generative AI**
+* 🧩 Building projects around **LLMs, AI Agents, RAG, and Automation**
+* 💡 Passionate about solving real-world problems using AI
+* 🤝 Open to collaborating on **GenAI and Open Source Projects**
+* 🎯 Seeking opportunities as a **Generative AI Engineer (Fresher)**
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript
-* **AI/ML:** Generative AI, Prompt Engineering, RAG, LLM Applications
-* **Frameworks & Tools:** LangChain, OpenAI API, Git, GitHub
-* **Robotics:** Arduino, Sensors, Embedded Systems, STEM Education
+**Languages:**
+Python • JavaScript
 
-## 🎯 Current Goal
+**Generative AI:**
+LLMs • Prompt Engineering • RAG • AI Agents • LangChain
 
-Leverage my experience in robotics, programming, and teaching to build impactful AI solutions and start my career as a **Generative AI Engineer**.
+**Tools & Platforms:**
+Git • GitHub • OpenAI APIs • Vector Databases
 
-## 📫 Let's Connect
+**Robotics & STEM:**
+Arduino • Sensors • Embedded Systems • Robotics Education
 
-I'm always open to discussing AI, collaborating on projects, and exploring GenAI opportunities.
+## 📈 Current Mission
+
+> Transitioning from robotics education to building the next generation of intelligent AI applications.
+
+## 🌍 Let's Connect
+
+If you're working on exciting AI projects or hiring for **GenAI Engineer roles**, I'd love to connect and contribute.
+
+### ⭐ "The future belongs to those who build intelligent systems."
